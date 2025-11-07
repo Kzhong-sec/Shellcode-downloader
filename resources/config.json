@@ -1,0 +1,6 @@
+{
+    "ip": "127.0.0.1",
+    "port": 159,
+    "rc4_key": "deadbeef",
+    "xor_key": 11
+}
