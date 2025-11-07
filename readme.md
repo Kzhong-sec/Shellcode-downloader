@@ -1,7 +1,7 @@
 # Shellcode Downloader
-Project I made for educational purposes. This C executable downloads custom shellcode from a Python server, which displays the message box "hacked!"
+Project I made for educational purposes. This C executable downloads custom shellcode from a Python server, which displays the message box "hacked!".
 
-The build uses ConfigMaker.py to automatically set the encryption keys, C2 details in both the compiled C binary and the server's configuration.
+The build uses ConfigMaker.py to automatically set the encryption keys and C2 details in both the compiled C binary and the server's configuration.
 ![Output](Screenshots/output.png)
 
 
